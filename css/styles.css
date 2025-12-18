@@ -2846,7 +2846,7 @@ textarea.form-control-lg {
 
 .btn-primary {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #ffc800;
+  --bs-btn-bg: #081534;
   --bs-btn-border-color: #ffc800;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #d9aa00;
@@ -10904,7 +10904,7 @@ p {
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #D3D3D3;
+  color: #081534;
 }
 
 @media (min-width: 992px) {
@@ -10926,7 +10926,7 @@ p {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #081534;
+    background-color: #D3D3D3;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
@@ -10946,12 +10946,12 @@ header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
-  color: #D3D3D3;
+  color: #081534;
   background-image: url("../assets/img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  background-size: cover;
+  background-size: contain;
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
@@ -11178,7 +11178,7 @@ header.masthead .masthead-heading {
     float: left;
     width: 41%;
     padding: 0 20px 20px 30px;
-    text-align: right;
+    text-align: justify;
   }
   .timeline > li .timeline-image {
     left: 50%;
